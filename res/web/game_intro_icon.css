@@ -1,0 +1,27 @@
+/* ----------------------------------------------------
+   created with http://www.codeandweb.com/texturepacker 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:d9b0baac276bd9b74928a6d3f5b7804d:6b4d4590cd2f0b432853182159a1da35:8e4fa623b665356fa8f0c19d149b93e2$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(game_intro_icon.png);}
+
+.icon_3Cay_active {width:78px; height:80px; background-position: -2px -2px}
+.icon_Chan_active {width:78px; height:80px; background-position: -82px -2px}
+.icon_CoTuong_active {width:78px; height:80px; background-position: -162px -2px}
+.icon_CoUp_active {width:78px; height:80px; background-position: -242px -2px}
+.icon_Lieng_active {width:78px; height:80px; background-position: -322px -2px}
+.icon_MauBinh_active {width:78px; height:80px; background-position: -2px -84px}
+.icon_Phom_active {width:78px; height:80px; background-position: -82px -84px}
+.icon_Poker_active {width:78px; height:80px; background-position: -162px -84px}
+.icon_Sam_active {width:78px; height:80px; background-position: -242px -84px}
+.icon_TLMNDL_active {width:78px; height:80px; background-position: -322px -84px}
+.icon_TLMN_active {width:78px; height:80px; background-position: -2px -166px}
+.icon_Xizach_active {width:78px; height:80px; background-position: -82px -166px}
+.icon_xiTo_active {width:78px; height:80px; background-position: -162px -166px}

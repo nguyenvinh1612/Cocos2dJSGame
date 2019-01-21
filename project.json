@@ -1,0 +1,39 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/app.js",
+        "src/loadingScreen.js",
+        "src/loginScreen.js",
+        "src/network/BkBuffer.js",
+        "src/network/BkPacket.js",
+        "src/network/BkSocket.js",
+        "src/Logic/BkGlobal.js",
+        "src/Logic/BkConnectionManager.js",
+        "src/Util/BkConstants.js",
+        "src/Util/BkFunctionUtil.js",   
+        "src/Util/CVVFunctionUtil.js",
+        "src/gui/base/BkSprite.js",
+        "src/gui/base/BkButton.js",
+        "src/gui/base/BkChanCard.js",
+        "src/Data/BkAnimationCardData.js",
+        "src/gui/common/BkDealingCard.js",
+        "src/gui/common/BkDealingCard1.js",
+        "src/Util/BkConstIngame.js",
+        "src/Util/BkTime.js",
+        "src/Util/BkConstString.js",
+        "src/Util/BkClientSettingManager.js",
+        "src/Util/ServerSettings.js",
+        "src/Util/NativeInterface.js"
+    ]
+}

@@ -1,0 +1,33 @@
+/* ----------------------------------------------------
+   created with http://www.codeandweb.com/texturepacker 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:b1c806837b496cb96774073813ed5997:8410bd0e5dfacfd5f32957a05a1a90f9:7debee2bf337f11af9b36a338a918fb8$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(bk-home.png);}
+
+.bigkool_web_01 {width:210px; height:240px; background-position: -426px -261px}
+.bigkool_web_02 {width:210px; height:240px; background-position: -2px -503px}
+.bigkool_web_03 {width:210px; height:240px; background-position: -214px -503px}
+.bigkool_web_04 {width:210px; height:240px; background-position: -638px -261px}
+.bigkool_web_05 {width:210px; height:240px; background-position: -426px -503px}
+.bigkool_web_06 {width:210px; height:240px; background-position: -638px -503px}
+.bigkool_web_07 {width:210px; height:240px; background-position: -214px -745px}
+.bigkool_web_08 {width:210px; height:240px; background-position: -426px -745px}
+.bigkool_web_09 {width:210px; height:240px; background-position: -2px -745px}
+.bigkool_web_10 {width:210px; height:240px; background-position: -214px -261px}
+.bigkool_web_11 {width:210px; height:240px; background-position: -2px -261px}
+.btn_appstore_normal {width:161px; height:59px; background-position: -388px -2px}
+.btn_googleplay_normal {width:161px; height:59px; background-position: -714px -2px}
+.btn_guide {width:40px; height:32px; background-position: -268px -2px}
+.btn_guide_hover {width:40px; height:32px; background-position: -310px -2px}
+.btn_windowsphone_normal {width:161px; height:59px; background-position: -551px -2px}
+.iconPhone {width:34px; height:34px; background-position: -352px -2px}
+.light_line_footer {width:958px; height:196px; background-position: -2px -63px}
+.line_tittle_footer {width:264px; height:3px; background-position: -2px -2px}
