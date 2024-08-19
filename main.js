@@ -50,6 +50,7 @@
     // "jsList" sets the list of js files in your game.
  }
  *
+ // 2024-19-aug
  */
 var MyBK = MyBK || {};
 var _initGlobalVar = function () {
